@@ -1,0 +1,119 @@
+body{
+    font-family: Noto Sans;
+}
+
+
+.navbar-list{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+    gap: 95px;
+}
+.photo{
+    margin-right: 350px;
+    height: 50px;
+}
+.navbar-link{
+    font-size: 22px;
+    text-decoration: none;
+    color: grey;
+}
+.navbar-link:hover{
+    color: black;
+}
+.s{
+    width: 450px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.s{
+    font-size: 45px;
+    color: black;
+}
+.text{
+    text-align: left;
+}
+p{
+    color: grey;
+    font-size: 25px;
+}
+.ada{
+    width: 450px;
+}
+.brbr{
+    width: 500px;
+    margin-left: 250px;
+}
+.omg{
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid  #458FF6;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    color:  #458FF6;
+}
+.omg:hover{
+    background-color: #458FF6;
+    color: white;
+}
+.services{
+    height: 1105px;
+}
+.serviced{
+    text-align: center;
+}
+.svo{
+   margin-top: 125px;
+}
+.mega{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 125px;
+}
+.korobochka{
+    width: 380px;
+height: 340px;
+    border-radius: 20px;
+    background-color: #E3E3E3;
+}
+
+.korobochka:hover{
+    background-color:#458FF6 ;
+color: white;
+}
+.sd{
+    color: grey;
+}
+.sd:hover{
+    color: white;
+}
+.lear{
+    display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.daw{
+    text-align: center;
+    font-size: 50px;
+  margin-top: 125px;
+}
+.brbrd{
+    width: 500px;
+    margin-right: 50px;
+}
+
+
+
